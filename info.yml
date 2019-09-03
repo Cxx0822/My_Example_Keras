@@ -1,0 +1,10 @@
+n_classes: 5
+my_labels: ['animal', 'flower', 'guitar', 'houses', 'plane']
+batch_size: 16
+max_step: 30
+
+train_dir: 'dataSet/train'
+valid_dir: 'dataSet/valid'
+test_dir: 'dataSet/test'
+
+img_size: 299
