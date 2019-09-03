@@ -1,4 +1,3 @@
-from keras.optimizers import Adam
 from keras.utils.vis_utils import plot_model
 from keras.optimizers import SGD
 
